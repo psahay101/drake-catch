@@ -2,7 +2,6 @@
 
 Real-time robotic catching system using Drake simulation. An iiwa robot arm tracks, predicts, and catches thrown objects mid-air.
 
-![Catching a banana](catch_banana.gif)
 
 ## Overview
 
